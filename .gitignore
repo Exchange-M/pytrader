@@ -1,0 +1,8 @@
+account.txt
+stock.db
+kiwoom.log
+*.pyc
+.idea
+build/*
+dist/*
+system_trading.egg-info/*
